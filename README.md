@@ -1,2 +1,2 @@
 # climate_starter
-#10 Homework Assignment Advanced Data Storage and Retriebal
+#10 Homework Assignment Advanced Data Storage and Retrieval
